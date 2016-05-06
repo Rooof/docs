@@ -10,7 +10,7 @@ Regions are the area-specific Craigslist site that you post on.
 
 ---
 ##Neighborhoods
-Neighborhoods are the smaller area within a region. The neighborhood shows up in brackets after the title of each ad.
+Neighborhoods are the smaller area within a region. The neighborhood shows up in brackets after the title of each ad.<br>
 ![](maps5.jpg)
 
 ---
@@ -26,7 +26,8 @@ If you consistiently post from the same neighborhood and region you can tell Roo
 
 3. Scroll down to the location settings. Here you can set your location and neighborhood to be the same for every ad.
 ![](settings4.jpg)
-
+<br>
+<br>
  - Select your region in the "Craigslist Site" area.
      - If there is a subarea available, select it if the box appears
  - Enter your neighborhood
