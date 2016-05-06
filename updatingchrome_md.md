@@ -9,5 +9,5 @@ Follow these steps:
 3. Under the help menu, click the "About Google Chrome" button
 ![](chrome7.jpg)<br>
 
-4. This page will tell you the version you are running, and if there are any updates available they will be here.
+4. This page will tell you the version you are running and if there are any updates available they will be here.
 ![](chrome9.jpg)
