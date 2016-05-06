@@ -1,8 +1,7 @@
 # Minimizing
-
 For Rooof to run, Chrome must be running. If you are not actively using Chrome, minimizing allows Rooof to run in the background even if you are not using Chrome.
 
-Follow these instructions to minimize Chrome:
+**Follow these instructions to minimize Chrome:**
 1. Have Google Chrome open
 2. In the top right corner of Chrome, click the minimize button (the small line)
 ![](chrome4.jpg)
