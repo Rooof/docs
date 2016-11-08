@@ -1,16 +1,25 @@
 # Log In to Craigslist
+This page will explain how to log in to your Craigslist account.
 
-####1. To login to Craigslist, go to craigslist.org (or "yourregion".craigslist.org), and click on the account option.
+1. Go to [craigslist.org](craigslist.org) and on the left side panel click "**my account**"
+![](newaccount1.jpg)
+
+2. Enter your Craigslist credentials and click "**Log In**"
+![](password8.jpg)
+
+**If the log in is successful**, you will be brought to the "My Account" page...
+![](login1.jpg)<br>
+
+From here you can access your postings, drafts, searches, settings, and billing pages.
+
+**If the log in fails**, it will give you an error message and ask you to try again. 
+![](wrongpassword.jpg)<br>
+If you need to reset your password, click the "Forgot Password?" button. If you need help resetting your password, click [this link](http://docs.rooof.com/resetcraigslist_password_md.html) for instructions.
 
 
-![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
+---
 
-<br>
-####2. Enter your email and password and press "Log In" to access your account. (If you do not have an account, enter your email address in the second field, and press "Create Account.")
-
-![](CLLogin.png)
-
-<br>
-####3. You are now inside your Craigslist account!
-
-![](CLLoginPagesample.png)
+**You may also be interested in:**
+- [Craigslist Best Practices](http://docs.rooof.com/craigslistbest_practices_md.html)
+- [Craigslist Life Cycle](http://docs.rooof.com/craigslistlifecycle_md.html)
+- [Craigslist Settings](http://docs.rooof.com/craigslistsetting_md.html)

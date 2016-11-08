@@ -2,7 +2,7 @@
 
 ##Best Practice for Posting
 Following these guidelines will help your posts stand out, and also avoid being flagged:
-- Only ever post ads in one city/region
+- Only use your account to post ads in one city/region
 - Include a phone number in the body of every ad
 - Write a unique title for every post
 - Write different content in the main body of your ads
@@ -12,29 +12,11 @@ Following these guidelines will help your posts stand out, and also avoid being 
 - Use the CL email relay (don't hide your email address)
 - Include 2-9 photos (rotate the order of the photos)
 
-##Things to Avoid:
 
-- Do not include company names or logos in your posts. 
-- Do not include a URL/website in the body of the ad.
-- Do not leave out contact information. 
-- Avoid words like "free" They sound scammy. 
-- Try not to post while on vacation or outside of your city/state/country.
-- Don't use the same computer to create spam.
-- Don't hide information from tenants (e.g. "Call us for pricing").
- 
+---
 
-##Common Reasons for Being Flagged:
+**You may also be interested in:**
 
-- You did the things we told you to avoid.
-
-##How to Avoid Being Flagged:
-
-- Don't do the previously mentioned things!
-
- 
-##Recovering from Flagging/Deletions:
-
-- Don't post anything for 72 hours.
-- Post at most one ad per day for the next week.
-
-For in depth information about flagging, see the "Craigslist Problems" page. [](http://docs.rooof.com/craigslistbest_practices_md.html)
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)
+- [Craigslist Lifecycle](http://docs.rooof.com/craigslistlifecycle_md.html)
+- [Posting Button](http://docs.rooof.com/postingbutton_md.html)

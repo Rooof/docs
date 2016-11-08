@@ -1,59 +1,59 @@
 # Resetting your Password
 
-Have you forgotten your password? If so, your Craigslist password can be reset through Craiglist's login page, and changed through the Craigslist account page. 
+This page gives you steps to change your password in two situations.
 
 
+##Forgotten Password
+**If you have forgotten your Craigslist password, follow these steps:**
 
----
+1. Go to [craigslist.org](craigslist.org) and on the left panel click "**my account**"
+![](newaccount1.jpg)
 
+2. Click the "**Forgot Password?**" button in the bottom right corner of the "**Log in to your craigslist account**"
+![](password2.jpg)
 
-###Resetting Your Password 
+3. Enter the email associated with your Craigslist account and click "**Reset Password**"
+![](password3.jpg)
 
-####1. Go to Craigslist, and click on their login button.
+4. They will send a reset link to reset the password
+![](password4.jpg)
 
-![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
-<br><br>
+5. Go to your email and click the link
+![](password5.jpg)<br>
+*If you do not see an email, make sure you check your junk folder
 
-####2. Next, click on "Forgot password?"
-![](pwreset.png)
-<br><br>
+6. Enter in a new password and click "**Change Password**"
+![](password6.jpg)
 
-
-####3. Once you land on the reset password page, enter your Craigslist account email into the text field. Then, press "Reset Password." 
-
-![](reset.png)
-<br><br>
-
-####4 You will be taken to a page like this (1), and receive an email with the reset link (2). 
-
-![](emailsample.png)
-<br><br>
-
+7. You will get a message confirming the password reset
+![](password7.jpg)
 
 ---
 
+##Changing a Password
 
-###Changing Your Password
+**To change your Craigslist password, follow these steps:**
+1. Go to [craigslist.org](craigslist.org) and on the left side panel click "**my account**"
+![](newaccount1.jpg)
 
-####1. Go to Craigslist, and click on their login button.
+2. Enter your credentials and click "**Log In**"
+![](password8.jpg)
 
-![](https://git.gitbook.com/raw/rooof/rooof-user-manual/master/CLAccount_sample.png?token=YXNobGV5Z21vbmV5OjI2NTNlNWVjLWI1YmQtNGNmYi05NDYzLWVjNGFiMzY3MTZkZA%3D%3D)
-<br><br>
+3. Click the "**settings**" tab at the top left
+![](password9.jpg)
 
-####2. From there, you will be taken to a login page. Enter your email and password and press "Log In" to access your account.
 
-![](CLLogin.png)
+4. Click the  "**change password**" button
+![](password10.jpg)
 
-<br>
-####3. From the account page, click on "settings."
+5. Enter your existing password, then enter the new password you want and click "**Change Password**"
+![](password11.jpg)
 
-![](clickonsettings.png)
-<br><br>
+**Your password is now changed!**
 
-####4. Once you're in the settings section, you can change your password by clicking on the "change password" button. 
+---
 
-![](CLSettings_pw.png)
-<br><br>
-####5. You'll now be able to change your password to whatever you'd like! Firstly, enter your old password, and then your new one twice, before pressing the "Change Password" button.
-
-![](pwreset2.png)
+**You may also be interested in:**
+- [Changing your Craigslist Email](http://docs.rooof.com/changecraigslist_email_md.html)
+- [Craigslist Settings](http://docs.rooof.com/craigslistsetting_md.html)
+- [Craigslist Problems](http://docs.rooof.com/craigslist_problems.html)

@@ -1,40 +1,9 @@
 # Create Craigslist Account
-<table><tr><td>Watch this short video to learn how to install the Rooof Chrome extension </td><td> <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table>
+This page will explain how to create a new account on Craigslist.**To create a Craigslist account, follow these steps:**1. Go to [craigslist.org](craigslist.org) and on the left side panel, click "**my account**"![](newaccount1.jpg)2. In the "**Create a craigslist account**" box, enter your email and click "**Create Account**"![](newaccount2.jpg)<br>Note: Craigslist only allows one email per account, so be sure to choose the address you want to receive your leads at.3. An activation email will be sent to the email you entered![](newaccount3.jpg)4. Check your email and click the link provided![](newaccount4.jpg)<br>*If you did not receive an email, make sure you check your junk folder.5. Enter a password for your new account and click "**Submit Password and Log In**"![](newaccount5.jpg)6. When it confirms your password, click "**Continue to your account**"![](newaccount6.jpg)7. Read and click "**I ACCEPT**" to finalize your new account![](newaccount7.jpg)**You are now ready to start using your new Craigslist account!**
 
-
-
----
-
-
-
-[Click here for Craigslist sign-up page](https://accounts.craigslist.org/signup/)
-
----
-
-### Email Address
-![Craiglist Signup](img/signup3.png)
-
-![Confirmation](img/new-confirm.png)
-
----
-
-### Confirmation
-**Check your email for Craigslist confirmation & click the link in the email.**
-
-![Email Confirmation](img/confirm4.png)
+<table><tr><td>Watch this short video to learn how to install the Rooof Chrome extension </td><td> <iframe src="https://player.vimeo.com/video/123789121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table>---**You may also be interested in:**- [Log In to Craigslist](http://docs.rooof.com/loginto_craigslist_md.html)- [Craigslist Best Practices](http://docs.rooof.com/craigslistbest_practices_md.html)- [Installing Google Chrome](http://docs.rooof.com/installing_google_chrome.html) 
 
 
 
 
----
 
-### Password 
-**Choose a password.**
-![Choose Password](img/password1.png)
-
-
-
-![Success](img/success1.png)
-**Success!**
-
-> Any problems please email us at Help@rooof.com
