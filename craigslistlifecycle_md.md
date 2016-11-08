@@ -24,4 +24,4 @@
  An ad is in the reposted stage when it has expired and been reposted.
  <br>
  ###Deleted
- When an ad is completely removed from Craigslist, it is in the deleted stage. This happens when a user chooses to delete an ad before the expiry, or if an ad has expired and not renewed.
+ When an ad is completely removed from Craigslist, it is in the deleted stage. For an ad to be deleted, the user must manually access the account and delete the ad.
